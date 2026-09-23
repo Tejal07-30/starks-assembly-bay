@@ -48,10 +48,4 @@ Joint 3: -8.8 cm -> LIMIT EXCEEDED
 
 ## Q2
 
-Contains the URDF/Xacro model and RViz visualization of Stark's robotic arm.
-
-### Run 
-
-```bash
-ros2 launch starks_arm_description display.launch.py
-```
+In progress
